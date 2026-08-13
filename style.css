@@ -1,0 +1,33 @@
+body{
+  background-COLOR: teal;
+  FONT-FAMILY: arial, sans-serif;
+}
+.resume-box{
+  width:700px;
+  margin:30px auto;
+  padding:15px;
+  border:3px solid black;
+  background-color: lightcyan; 
+}
+header{
+  text-align:center;
+  border-bottom:3px solid black;
+  padding bottom:15px;
+}
+section{
+  margin-top:20px;
+}
+h2{
+  border-bottom:2px dashed darkgreen ;
+  padding-bottom:5px;
+  margin:auto;
+}
+.contact-details a {
+  margin:2px;
+}
+footer{
+  text-align:center;
+  margin-top:5px;
+  border-top:2px solid;
+}
+
